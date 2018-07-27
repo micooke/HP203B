@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HP203B	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setOSR	KEYWORD2
+getTempCelcius	KEYWORD2
+getTempFahrenheit	KEYWORD2
+getPressure	KEYWORD2
+getAltitude	KEYWORD2
+getTempPresAlt	KEYWORD2
+reset	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HP203B_RESET	LITERAL1
+
+HP203B_ADDR	LITERAL1
+HP203B_TEMP	LITERAL1
+HP203B_PRES	LITERAL1
+HP203B_ALTI	LITERAL1
+HP203B_MEASURE	LITERAL1
+
+HP203B_CHNL_PRES_AND_TEMP	LITERAL1
+HP203B_CHNL_TEMP	LITERAL1
+HP203B_OSR_4096	LITERAL1
+HP203B_OSR_2048	LITERAL1
+HP203B_OSR_1024	LITERAL1
+HP203B_OSR_512	LITERAL1
+HP203B_OSR_256	LITERAL1
+HP203B_OSR_128	LITERAL1
+
